@@ -109,9 +109,3 @@ option {
 #submit:focus {
     background-color: hsla(203, 100%, 50%, 0.7);
 }
-
-@media screen and (max-width: 1342px) {
-    body {
-        display: none;
-    }
-}
