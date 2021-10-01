@@ -17,6 +17,8 @@ a {
     border-radius: 10px;
     font-size: 1em;
     border: 1px solid hsl(201, 100%, 6%);
+    font-family: 'B612', sans-serif;
+
 }
 
 .signUp-container {
